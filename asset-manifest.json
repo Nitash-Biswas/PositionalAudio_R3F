@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PositionalAudio_R3F/static/css/main.db7e420b.css",
+    "main.js": "/PositionalAudio_R3F/static/js/main.0890d0bd.js",
+    "index.html": "/PositionalAudio_R3F/index.html",
+    "main.db7e420b.css.map": "/PositionalAudio_R3F/static/css/main.db7e420b.css.map",
+    "main.0890d0bd.js.map": "/PositionalAudio_R3F/static/js/main.0890d0bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db7e420b.css",
+    "static/js/main.0890d0bd.js"
+  ]
+}
